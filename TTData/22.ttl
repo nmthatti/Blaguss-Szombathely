@@ -1,0 +1,92 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 24.
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+Szombathely-midi
+799
+
+------------------------------------
+
+  Dep.: 5:59:0
+[addtrip]
+22-KFu-Vá
+0
+359.000
+
+  Dep.: 6:33:0
+[addtrip]
+22-Vá-DBkp
+0
+393.000
+
+  Dep.: 7:9:30
+[addtrip]
+22-Dbkp-Vá
+0
+429.500
+
+  Dep.: 7:48:0
+[addtrip]
+22-Vá-Vá
+0
+468.000
+
+  Dep.: 9:4:0
+[addtrip]
+22-KFu-Vá
+0
+544.000
+
+  Dep.: 10:48:0
+[addtrip]
+22-Vá-Vá
+0
+648.000
+
+  Dep.: 12:48:0
+[addtrip]
+22-Vá-Vá
+0
+768.000
+
+  Dep.: 13:48:0
+[addtrip]
+22-Vá-Vá
+0
+828.000
+
+  Dep.: 14:48:0
+[addtrip]
+22-Vá-DBkp
+0
+888.000
+
+  Dep.: 15:48:0
+[addtrip]
+22-Vá-Vá
+0
+948.000
+
+  Dep.: 16:48:0
+[addtrip]
+22-Vá-DBkp
+0
+1008.000
+
+  Dep.: 17:53:0
+[addtrip]
+22-Vá-DBkp
+0
+1073.000
+

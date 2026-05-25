@@ -1,0 +1,27 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 24.
+
+[trip]
+
+Minerva lakopark
+6
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+151613
+
+[station_typ2]
+737
+
+
+.........................
+        Profiles
+.........................
+

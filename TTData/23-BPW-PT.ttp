@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 24.
+
+[trip]
+
+Petofi telep, autobusz-fordulo
+23
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+1640554
+
+[station_typ2]
+1640539
+
+[station_typ2]
+1640404
+
+[station_typ2]
+1640633
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_arr_time]
+1
+1.000
+[profile_man_arr_time]
+2
+3.000
+[profile_man_arr_time]
+3
+5.000

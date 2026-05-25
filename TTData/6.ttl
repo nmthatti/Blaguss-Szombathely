@@ -1,0 +1,110 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 24.
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+Szombathely
+287
+
+------------------------------------
+
+  Dep.: 4:12:0
+[addtrip]
+6-M-U
+0
+252.000
+
+  Dep.: 5:12:0
+[addtrip]
+6-M-U
+0
+312.000
+
+  Dep.: 6:12:0
+[addtrip]
+6-M-U
+0
+372.000
+
+  Dep.: 7:12:0
+[addtrip]
+6-M-U
+0
+432.000
+
+  Dep.: 8:12:0
+[addtrip]
+6-M-U
+0
+492.000
+
+  Dep.: 9:12:0
+[addtrip]
+6-M-U
+0
+552.000
+
+  Dep.: 10:12:0
+[addtrip]
+6-M-U
+0
+612.000
+
+  Dep.: 11:12:0
+[addtrip]
+6-M-U
+0
+672.000
+
+  Dep.: 12:12:0
+[addtrip]
+6-M-U
+0
+732.000
+
+  Dep.: 13:12:0
+[addtrip]
+6-M-U
+0
+792.000
+
+  Dep.: 14:12:0
+[addtrip]
+6-M-U
+0
+852.000
+
+  Dep.: 15:12:0
+[addtrip]
+6-M-U
+0
+912.000
+
+  Dep.: 16:12:0
+[addtrip]
+6-M-U
+0
+972.000
+
+  Dep.: 17:12:0
+[addtrip]
+6-M-U
+0
+1032.000
+
+  Dep.: 18:12:0
+[addtrip]
+6-M-U
+0
+1092.000
+

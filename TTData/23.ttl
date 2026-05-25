@@ -1,0 +1,119 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 24.
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1 - H-P
+Szombathely
+287
+
+------------------------------------
+
+  Dep.: 5:13:0
+[addtrip]
+23_VA-BPW
+0
+313.000
+
+  Dep.: 5:51:0
+[addtrip]
+23-BPW-PT
+0
+351.000
+
+  Dep.: 5:56:30
+[addtrip]
+23_PT-VA
+0
+356.500
+
+  Dep.: 6:56:0
+[addtrip]
+23_PT-VA
+0
+416.000
+
+  Dep.: 13:11:0
+[addtrip]
+23_VA-BPW-PT
+0
+791.000
+
+  Dep.: 13:50:0
+[addtrip]
+23_AUT_BPW
+0
+830.000
+
+  Dep.: 14:36:0
+[addtrip]
+23_VA-PT
+0
+876.000
+
+  Dep.: 15:36:0
+[addtrip]
+23_VA-PT
+0
+936.000
+
+  Dep.: 16:36:0
+[addtrip]
+23_VA-PT
+0
+996.000
+
+  Dep.: 22:2:0
+[addtrip]
+23_BPW-VA
+0
+1322.000
+
+------------------------------------
+
+[newtour]
+2 - H-P
+Szombathely
+287
+
+------------------------------------
+
+  Dep.: 13:33:0
+[addtrip]
+23_PT_AUT
+0
+813.000
+
+  Dep.: 14:0:0
+[addtrip]
+23_BPW-VA
+0
+840.000
+
+  Dep.: 14:56:0
+[addtrip]
+23_BPW-VA
+0
+896.000
+
+  Dep.: 15:56:0
+[addtrip]
+23_BPW-VA
+0
+956.000
+
+  Dep.: 16:56:0
+[addtrip]
+23_BPW-VA
+0
+1016.000
+
