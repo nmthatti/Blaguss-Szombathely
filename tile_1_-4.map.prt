@@ -34,6 +34,10 @@ Sceneryobjects\ADDON_SimpleStreets\RQ_20n_to_10,5.sco
 1049124267
 1049124267
 -1
+Sceneryobjects\ADDON_SimpleStreets\RQ_9,5_2spur_6,5m_Sidewalk_junct.sco
+1047945789
+1047945789
+-1
 Sceneryobjects\ADDON_SimpleStreets\RQ_9,5_2spur_6,5m_Sidewalk_Roundabout_normal_part0.sco
 1048482870
 1048482870
@@ -46,12 +50,20 @@ Sceneryobjects\ADDON_SimpleStreets\RQ_9,5_to_10,5.sco
 1047945833
 1047945833
 -1
+Sceneryobjects\Muur bruin\muro_40m.sco
+1060008496
+1060008496
+-1
 Sceneryobjects\Ruede\forest_backdrop01.sco
-1344340548
-1344340548
+1133255562
+1133255562
+-1
+Sceneryobjects\Trees_MC\shrubbery_04_20.sco
+1532784854
+1532784854
 -1
 Splines\Addon Modern Streets\Altoaner Überland.sli
-1095107680
+1119379617
 -
 -
 Splines\ADDON_SimpleStreets\RQ_20_4_spur_15m_narrow_Sidewalk.sli
@@ -59,10 +71,14 @@ Splines\ADDON_SimpleStreets\RQ_20_4_spur_15m_narrow_Sidewalk.sli
 -
 -
 Splines\ADDON_SimpleStreets\RQ_9,5_2spur_6,5m_Sidewalk.sli
-1047221002
+1047218954
 -
 -
 Splines\Terrain-Spline-V3_1\Splines\Terrain Spline\4mTerrain_Spline.sli
-1079488945
+1079484849
+-
+-
+Splines\VKL´s Splines\str_gruen_1m.sli
+1083146895
 -
 -
