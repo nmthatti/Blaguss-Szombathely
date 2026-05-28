@@ -1,0 +1,233 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 27.
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1 - H-P
+Szombathely
+287
+
+------------------------------------
+
+  Dep.: 5:17:0
+[addtrip]
+29C - VA-VA
+0
+317.000
+
+  Dep.: 6:16:0
+[addtrip]
+29C - VA-VA
+1
+376.000
+
+  Dep.: 7:16:0
+[addtrip]
+29C - VA-VA
+1
+436.000
+
+  Dep.: 8:16:0
+[addtrip]
+29C - VA-VA
+1
+496.000
+
+  Dep.: 9:16:0
+[addtrip]
+29C - VA-VA
+1
+556.000
+
+  Dep.: 10:16:0
+[addtrip]
+29C - VA-VA
+1
+616.000
+
+  Dep.: 11:16:0
+[addtrip]
+29C - VA-VA
+1
+676.000
+
+  Dep.: 12:16:0
+[addtrip]
+29C - VA-VA
+1
+736.000
+
+  Dep.: 13:16:0
+[addtrip]
+29C - VA-VA
+1
+796.000
+
+  Dep.: 14:16:0
+[addtrip]
+29C - VA-VA
+1
+856.000
+
+  Dep.: 15:16:0
+[addtrip]
+29C - VA-VA
+1
+916.000
+
+  Dep.: 16:16:0
+[addtrip]
+29C - VA-VA
+1
+976.000
+
+  Dep.: 17:16:0
+[addtrip]
+29C - VA-VA
+1
+1036.000
+
+  Dep.: 18:18:0
+[addtrip]
+29C - VA-VA
+0
+1098.000
+
+  Dep.: 19:18:0
+[addtrip]
+29C - VA-VA
+0
+1158.000
+
+  Dep.: 20:18:0
+[addtrip]
+29C - VA-VA
+0
+1218.000
+
+  Dep.: 23:2:0
+[addtrip]
+29C - VA-VA
+0
+1382.000
+
+------------------------------------
+
+[newtour]
+2 - Szo-Va
+Szombathely
+736
+
+------------------------------------
+
+  Dep.: 5:17:0
+[addtrip]
+29C - VA-VA
+0
+317.000
+
+  Dep.: 6:17:0
+[addtrip]
+29C - VA-VA
+0
+377.000
+
+  Dep.: 7:17:0
+[addtrip]
+29C - VA-VA
+0
+437.000
+
+  Dep.: 8:17:0
+[addtrip]
+29C - VA-VA
+0
+497.000
+
+  Dep.: 9:17:0
+[addtrip]
+29C - VA-VA
+0
+557.000
+
+  Dep.: 10:17:0
+[addtrip]
+29C - VA-VA
+0
+617.000
+
+  Dep.: 11:17:0
+[addtrip]
+29C - VA-VA
+0
+677.000
+
+  Dep.: 12:17:0
+[addtrip]
+29C - VA-VA
+0
+737.000
+
+  Dep.: 13:17:0
+[addtrip]
+29C - VA-VA
+0
+797.000
+
+  Dep.: 14:17:0
+[addtrip]
+29C - VA-VA
+0
+857.000
+
+  Dep.: 15:17:0
+[addtrip]
+29C - VA-VA
+0
+917.000
+
+  Dep.: 16:17:0
+[addtrip]
+29C - VA-VA
+0
+977.000
+
+  Dep.: 17:17:0
+[addtrip]
+29C - VA-VA
+0
+1037.000
+
+  Dep.: 18:18:0
+[addtrip]
+29C - VA-VA
+0
+1098.000
+
+  Dep.: 19:18:0
+[addtrip]
+29C - VA-VA
+0
+1158.000
+
+  Dep.: 20:18:0
+[addtrip]
+29C - VA-VA
+0
+1218.000
+
+  Dep.: 23:2:0
+[addtrip]
+29C - VA-VA
+0
+1382.000
+

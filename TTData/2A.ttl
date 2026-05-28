@@ -1,0 +1,218 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2026. 05. 27.
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1 - H-P
+Szombathely
+287
+
+------------------------------------
+
+  Dep.: 5:37:0
+[addtrip]
+2A-VA-VA
+0
+337.000
+
+  Dep.: 6:32:0
+[addtrip]
+2A-VA-VA
+1
+392.000
+
+  Dep.: 7:32:0
+[addtrip]
+2A-VA-VA
+1
+452.000
+
+  Dep.: 8:32:0
+[addtrip]
+2A-VA-VA
+1
+512.000
+
+  Dep.: 9:32:0
+[addtrip]
+2A-VA-VA
+1
+572.000
+
+  Dep.: 10:32:0
+[addtrip]
+2A-VA-VA
+1
+632.000
+
+  Dep.: 11:32:0
+[addtrip]
+2A-VA-VA
+1
+692.000
+
+  Dep.: 12:32:0
+[addtrip]
+2A-VA-VA
+1
+752.000
+
+  Dep.: 13:32:0
+[addtrip]
+2A-VA-VA
+1
+812.000
+
+  Dep.: 14:32:0
+[addtrip]
+2A-VA-VA
+1
+872.000
+
+  Dep.: 15:32:0
+[addtrip]
+2A-VA-VA
+1
+932.000
+
+  Dep.: 16:32:0
+[addtrip]
+2A-VA-VA
+1
+992.000
+
+  Dep.: 17:32:0
+[addtrip]
+2A-VA-VA
+1
+1052.000
+
+  Dep.: 18:37:0
+[addtrip]
+2A-VA-VA
+0
+1117.000
+
+  Dep.: 19:37:0
+[addtrip]
+2A-VA-VA
+0
+1177.000
+
+------------------------------------
+
+[newtour]
+2 - H-P
+Szombathely
+287
+
+------------------------------------
+
+------------------------------------
+
+[newtour]
+2 - Szo-V
+Szombathely
+736
+
+------------------------------------
+
+  Dep.: 5:37:0
+[addtrip]
+2A-VA-VA
+0
+337.000
+
+  Dep.: 6:37:0
+[addtrip]
+2A-VA-VA
+0
+397.000
+
+  Dep.: 7:37:0
+[addtrip]
+2A-VA-VA
+0
+457.000
+
+  Dep.: 8:37:0
+[addtrip]
+2A-VA-VA
+0
+517.000
+
+  Dep.: 9:37:0
+[addtrip]
+2A-VA-VA
+0
+577.000
+
+  Dep.: 10:37:0
+[addtrip]
+2A-VA-VA
+0
+637.000
+
+  Dep.: 11:37:0
+[addtrip]
+2A-VA-VA
+0
+697.000
+
+  Dep.: 12:37:0
+[addtrip]
+2A-VA-VA
+0
+757.000
+
+  Dep.: 13:37:0
+[addtrip]
+2A-VA-VA
+0
+817.000
+
+  Dep.: 14:37:0
+[addtrip]
+2A-VA-VA
+0
+877.000
+
+  Dep.: 15:37:0
+[addtrip]
+2A-VA-VA
+0
+937.000
+
+  Dep.: 16:37:0
+[addtrip]
+2A-VA-VA
+0
+997.000
+
+  Dep.: 17:37:0
+[addtrip]
+2A-VA-VA
+0
+1057.000
+
+  Dep.: 18:37:0
+[addtrip]
+2A-VA-VA
+0
+1117.000
+
+  Dep.: 19:37:0
+[addtrip]
+2A-VA-VA
+0
+1177.000
+
