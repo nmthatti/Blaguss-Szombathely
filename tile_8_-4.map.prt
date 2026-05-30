@@ -302,14 +302,6 @@ Sceneryobjects\Verkehrszeichen_MC\Ampel_Mensch_1.sco
 1532784860
 1532784860
 -1
-Sceneryobjects\YufaObjekte\GLAWeihnachtsmarkt\Stand1.sco
-1165841835
-1165841835
--1
-Sceneryobjects\YufaObjekte\GLAWeihnachtsmarkt\Stand10.sco
-1165841800
-1165841800
--1
 Splines\ADDON_SimpleStreets\RQ_20_4_spur_15m_narrow_Sidewalk.sli
 1048793734
 -
@@ -348,6 +340,10 @@ Splines\Terrain-Spline-V3_1\Splines\Terrain Spline\4mTerrain_Spline.sli
 -
 Splines\VKL´s Splines\str_gruen_1m.sli
 1083146895
+-
+-
+Splines\Yufa\12cm_N_line.sli
+1097629391
 -
 -
 Splines\Yufa\25cm_N_line.sli
